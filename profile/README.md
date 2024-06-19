@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" src="profile/logo.png">
+  <img width="350" src="https://github.com/Children-s-Autism-Resource-Education/.github/blob/1b9ee98903ab55b08a53183f2f6333ec1e6975f2/profile/logo.png">
 </p>
 <h1 align="center">
 SOTO DEVELOPMENT README
